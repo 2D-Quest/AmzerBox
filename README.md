@@ -10,3 +10,5 @@ elles sont ensuite affichées sur un écran de type LCD, par l’intermédiaire 
 Ci-dessus les fichiers sources à charger sur un IDE Arduino et à téleverser sur votre FireBeetle-ESP32.
 
 lien wiki:https://uboopenfactory.univ-brest.fr/wiki/index.php?title=Amzer_Box
+
+Auteurs: Harrison Misy et Ange Leyrit
