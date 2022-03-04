@@ -11,4 +11,3 @@ Ci-dessus les fichiers sources à charger sur un IDE Arduino et à téleverser s
 
 lien wiki:https://uboopenfactory.univ-brest.fr/wiki/index.php?title=Amzer_Box
 
-Auteurs: Harrison Misy et Ange Leyrit
